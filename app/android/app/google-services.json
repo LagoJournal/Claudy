@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "650248467786",
+    "project_id": "claudy-b133e",
+    "storage_bucket": "claudy-b133e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650248467786:android:6a1434e29caab3fee03db3",
+        "android_client_info": {
+          "package_name": "com.claudy.app.claudy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650248467786-cqu728615b9o3jaqv2eq4l0av80vg455.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.claudy.app.claudy",
+            "certificate_hash": "9b11ef3bfcf51143fdbdb04676b04ae59c1c7a61"
+          }
+        },
+        {
+          "client_id": "650248467786-476hav3sourih5o711ij8o307lb2hh5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7EA1mKSR2nmBKqhQ-EDrnGkGFu_E8Hbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650248467786-476hav3sourih5o711ij8o307lb2hh5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
