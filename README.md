@@ -97,14 +97,14 @@ The phone will be the brain. It runs Claude, stores your API key locally, and ex
 
 ## Roadmap
 
-- [ ] Architecture design
-- [ ] Flutter app scaffold + Android launcher
-- [ ] Firebase Auth + onboarding
-- [ ] Claude chat UI with streaming
+- [x] Architecture design
+- [x] Flutter app scaffold + Android launcher
+- [x] Firebase Auth + onboarding
+- [x] Claude chat UI with streaming
 - [ ] WebSocket server + Cloudflare Tunnel
-- [ ] Web dashboard (GitHub Pages)
+- [ ] Web dashboard
 - [ ] Voice wake word + speech-to-text
-- [ ] Smart home (MQTT / Home Assistant)
+- [ ] Smart home (Home Assistant)
 - [ ] Spotify integration
 - [ ] Google Calendar integration
 - [ ] Camera streaming to dashboard
